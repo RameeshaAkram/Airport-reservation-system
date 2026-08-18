@@ -69,7 +69,7 @@ The system provides staff-related screens for managing air hostess and other sta
 | **Java Swing / GUI**            | Desktop graphical user interface              |
 | **Object-Oriented Programming** | Application structure and design              |
 | **File Handling**               | Persistent storage of flight and booking data |
-| **IntelliJ IDEA**               | Development environment                       |
+
 
 ## 📁 Project Structure
 
